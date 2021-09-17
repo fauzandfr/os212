@@ -9,3 +9,7 @@ ZCZC W00 60 L63 Fixing Hardware Problems
 ZCZC W01 15 L01 SCELE/Discord related
 ZCZC W01 90 L02 ZOOM meetings related
 ZCZC W01 60 L05 Calculus quiz
+ZCZC W02 90 L09 Do Weekly Assignment
+ZCZC W02 70 L05 Quiz OS and Alin
+ZCZC W02 90 L73 Playing Valorant
+ZCZC W02 60 L70 Studying Calculus 2
