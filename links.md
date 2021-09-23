@@ -23,4 +23,4 @@ This video is about github tutorial for beginner.
 This website contains tutorial for c language. Such as data type, input output, operator, to array, etc.
 
 7. [Programming Language that used in Cyber Security](https://www.codecademy.com/resources/blog/what-programming-languages-are-used-in-cybersecurity/ "Open Link")
-This website contains comparison between many popular programming language for cyber security. From python, c & c++, to HTML, JS, SQL, and PHP..
+This website contains comparison between many popular programming language for cyber security. From python, c & c++, to HTML, JS, SQL, and PHP
