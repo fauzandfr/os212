@@ -24,3 +24,12 @@ This website contains tutorial for c language. Such as data type, input output, 
 
 ### 7. [Programming Language that used in Cyber Security](https://www.codecademy.com/resources/blog/what-programming-languages-are-used-in-cybersecurity/ "Open Link")
 This website contains comparison between many popular programming language for cyber security. From python, c & c++, to HTML, JS, SQL, and PHP.
+
+### 8. [Linked List in Java](https://www.geeksforgeeks.org/linked-list-in-java "Open Link")
+This website contains tutorial about implementing linked list on java, such as performing various operations on LinkedList, Changing Elements, Removing elements, etc.
+
+### 9. [Function in Python](https://www.geeksforgeeks.org/python-functions/ "Open Link")
+This website contains function on python, including how to create a function, arguments of function, types of arguments, etc.
+
+### 10. [Java Tutorial](https://www.geeksforgeeks.org/java-tutorial/ "Open Link")
+This website contains tutorial for java programming language. 

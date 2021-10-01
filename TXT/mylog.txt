@@ -19,3 +19,8 @@ ZCZC W03 20 L05 Quiz OS
 ZCZC W03 15 L26 Learning C-Language syntax
 ZCZC W03 30 L01 SCELE/Discord Related
 ZCZC W03 120 L73 Gaming
+ZCZC W04 90 L01 Answering Forum
+ZCZC W04 20 L05 Quiz OS
+ZCZC W04 120 L73 Playing Valorant
+ZCZC W04 L80 Watching youtube videos
+
