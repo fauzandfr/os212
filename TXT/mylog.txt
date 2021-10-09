@@ -22,5 +22,11 @@ ZCZC W03 120 L73 Gaming
 ZCZC W04 90 L01 Answering Forum
 ZCZC W04 20 L05 Quiz OS
 ZCZC W04 120 L73 Playing Valorant
-ZCZC W04 L80 Watching youtube videos
-
+ZCZC W04 120 L80 Watching youtube videos
+ZCZC W05 30 L07 Demo TP1 DDP1
+ZCCZ W05 20 L22 Quiz OS
+ZCZC W05 30 L01 Checking SCELE and Discord
+ZCZC W05 60 L32 Studying python 
+ZCCZ W05 60 L64 Helping friend do OS Assignment
+ZCZC W05 120 L70 Studying Calculus 2 and Discrete Math 2
+ZCZC W05 120 L73 PLaying games
