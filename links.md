@@ -48,3 +48,9 @@ This website contains various programs with functions implementations, such as s
  
 ### 15. [Python Dictionary Exercise](https://www.geeksforgeeks.org/python-dictionary-exercise/ "Open Link")
 Contains many dictionary exercises, such as basic dictionary programs, conversion of dictionary, advance dictionary programs.
+
+### 16. [AWK Command in Linux with example](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/ "Open Link")
+Awk is a scripting language used for manipulating data and generating reports. The awk command programming language requires no compiling and allows the user to use variables, numeric functions, string functions, and logical operators. This website contains many AWK example.And its command example too.
+
+### 17. [What is Bash?](https://opensource.com/resources/what-bash "Open Link")
+Contain the definition of bash itself, bash command, running in bash, working in bash, etc. 

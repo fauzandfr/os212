@@ -30,3 +30,10 @@ ZCZC W05 60 L32 Studying python
 ZCCZ W05 60 L64 Helping friend do OS Assignment
 ZCZC W05 120 L70 Studying Calculus 2 and Discrete Math 2
 ZCZC W05 120 L73 PLaying games
+ZCZC W06 60 L22 Quiz Alin
+ZCZC W06 20 L22 Quiz OS
+ZCZC W06 60 L01 SCELE/Discord Related
+ZCZC W06 20 L03 Github Related
+ZCZC W06 30 L63 Fixing ram frequency
+ZCZC W06 90 L70 Studying Alin
+ZCCZ W06 120 L73 Playing games
