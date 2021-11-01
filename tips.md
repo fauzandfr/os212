@@ -8,4 +8,8 @@ permalink: /TIPS/
 
 2. Rutin cek scele/forum, karena banyak pengumuman penting.
 
+3. Do GSGS, like a lot.
+
+4. Exercise scripting
+
 

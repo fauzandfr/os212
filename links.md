@@ -53,4 +53,13 @@ Contains many dictionary exercises, such as basic dictionary programs, conversio
 Awk is a scripting language used for manipulating data and generating reports. The awk command programming language requires no compiling and allows the user to use variables, numeric functions, string functions, and logical operators. This website contains many AWK example.And its command example too.
 
 ### 17. [What is Bash?](https://opensource.com/resources/what-bash "Open Link")
-Contain the definition of bash itself, bash command, running in bash, working in bash, etc. 
+Contain the definition of bash itself, bash command, running in bash, working in bash, etc.
+
+### 18. [Difference between SUdo and Su in Linux](https://www.howtogeek.com/111479/htg-explains-whats-the-difference-between-sudo-su/ "Open Link")
+Contain the difference between sudo and su, difference between ubuntu and other linux distro, some linux tricks, graphical version of SU, etc.
+
+### 19. [Sed Command in Linux/Unix with examples](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/ "Open Link")
+Contain sed command with example included with its output.
+
+### 20. [Linux sh Command](https://www.computerhope.com/unix/ush.htm "Open Link")
+Contain sh command with its description, history, commands, commands substitution, parameter substitution, etc. 

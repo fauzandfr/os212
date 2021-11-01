@@ -37,3 +37,11 @@ ZCZC W06 20 L03 Github Related
 ZCZC W06 30 L63 Fixing ram frequency
 ZCZC W06 90 L70 Studying Alin
 ZCCZ W06 120 L73 Playing games
+ZCZC W07 240 L70 studying for alin exam
+ZCZC W07 180 L70 Studying for discrete math 2 exam
+ZCZC W07 180 L70 Studying for DDP1 Exam
+ZCZC W07 180 L70 Studying for Calculus2 Exam
+ZCZC W07 120 L73 Valorant gaming
+ZCZC W07 120 L82 Reading book related to discrete math 2 course
+ZCZC W07 60 L01 SCELE/DIscord Related
+ZCZC W07 90 L02 Zoom
