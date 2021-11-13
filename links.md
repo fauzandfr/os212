@@ -62,4 +62,13 @@ Contain the difference between sudo and su, difference between ubuntu and other 
 Contain sed command with example included with its output.
 
 ### 20. [Linux sh Command](https://www.computerhope.com/unix/ush.htm "Open Link")
-Contain sh command with its description, history, commands, commands substitution, parameter substitution, etc. 
+Contain sh command with its description, history, commands, commands substitution, parameter substitution, etc.
+
+### 21. [Linux from scratch tutorial](https://www.linuxfromscratch.org/lfs/view/11.0/index.html "Open Website")
+Tutorial fresh from the start to install linux from scratch.
+
+###22. [How to track your 'dd' progress on lfs](https://qastack.id/ubuntu/215505/how-do-you-monitor-the-progress-of-dd "Open Link")
+Contain 2 method, which is using 'pv' command or using 'status' which added to 'dd' at GNU Coreutils 8.24+).
+
+###23. [What dd, du, df do?](https://linuxtechlab.com/du-df-commands-examples/ "Open Link")
+Contain explanation and example of dd, du, and df. 
