@@ -52,5 +52,14 @@ ZCZC W08 10 L28 Copying LF AA-AD with Winscp
 ZCZC W08 120 L80 Watching film
 ZCZC W08 120 L81 Listening to spotify
 ZCZC W08 120 L73 Gaming
-ZCZC W08 10 L62 Restoring Ova 
-
+ZCZC W08 10 L62 Restoring OVA File
+ZCZC W08 180 L64 Helping friend do OS Assignment
+ZCZC W09 40 L22 OS Quiz
+ZCZC W09 50 L01 SCELE/Discord Related
+ZCZC W09 30 L03 Github related
+ZCZC W09 60 L07 Demo DDP1
+ZCZC W09 30 L21 Trying install spicetify with powershell
+ZCZC W09 120 L32 Youtube : Studying python OOP
+ZCZC W09 120 L70 Studying discrete mathematics 2
+ZCZC W09 240 L73 Gaming
+ZCZC W09 120 L80 Watching Youtube
