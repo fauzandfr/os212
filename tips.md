@@ -12,4 +12,6 @@ permalink: /TIPS/
 
 4. Exercise scripting
 
+5. Try Demo
 
+6. Try previous finalterm problems

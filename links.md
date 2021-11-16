@@ -67,8 +67,14 @@ Contain sh command with its description, history, commands, commands substitutio
 ### 21. [Linux from scratch tutorial](https://www.linuxfromscratch.org/lfs/view/11.0/index.html "Open Website")
 Tutorial fresh from the start to install linux from scratch.
 
-###22. [How to track your 'dd' progress on lfs](https://qastack.id/ubuntu/215505/how-do-you-monitor-the-progress-of-dd "Open Link")
+### 22. [How to track your 'dd' progress on lfs](https://qastack.id/ubuntu/215505/how-do-you-monitor-the-progress-of-dd "Open Link")
 Contain 2 method, which is using 'pv' command or using 'status' which added to 'dd' at GNU Coreutils 8.24+).
 
-###23. [What dd, du, df do?](https://linuxtechlab.com/du-df-commands-examples/ "Open Link")
+### 23. [What dd, du, df do?](https://linuxtechlab.com/du-df-commands-examples/ "Open Link")
 Contain explanation and example of dd, du, and df. 
+
+### 24. [How to check memory usage and swap space on Debian](https://vitux.com/7-commands-to-check-swap-space-in-debian-10/ "Open Link")
+Contain command such as free, swapon, vmstat, top, glances, and many more.
+
+### 25. [Linux from scratch guide step by step video](https://www.youtube.com/watch?v=UVXlyOu_ivs&list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE "Open Video")
+A playlist which include a tutorial for lfs right from the start till the last chapter.
