@@ -84,3 +84,9 @@ Explanation of flutter and its capability.
 
 ### 27. [What is the best IDE?](https://websitesetup.org/best-ide-software/ "Open Link")
 Contain the writes's top 10 IDE. Such as VSCode, IntelliJ IDEA, Aptana Studio 3, etc.
+
+### 28. [What programming language should i learn? ](https://hackr.io/blog/best-programming-languages-to-learn-2021-jobs-future "Open Link")
+Contain the programming language that you should learn in 2021.
+
+### 29. [Beginners guide to Figma](https://www.youtube.com/watch?v=jk1T0CdLxwU "Open Video")
+This video contain tutorial for beginner who want to learn the basic of Figma.
