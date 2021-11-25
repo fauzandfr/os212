@@ -78,3 +78,9 @@ Contain command such as free, swapon, vmstat, top, glances, and many more.
 
 ### 25. [Linux from scratch guide step by step video](https://www.youtube.com/watch?v=UVXlyOu_ivs&list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE "Open Video")
 A playlist which include a tutorial for lfs right from the start till the last chapter.
+
+### 26. [What is FLutter?](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/ "Open Link")
+Explanation of flutter and its capability.
+
+### 27. [What is the best IDE?](https://websitesetup.org/best-ide-software/ "Open Link")
+Contain the writes's top 10 IDE. Such as VSCode, IntelliJ IDEA, Aptana Studio 3, etc.

@@ -63,3 +63,4 @@ ZCZC W09 120 L32 Youtube : Studying python OOP
 ZCZC W09 120 L70 Studying discrete mathematics 2
 ZCZC W09 240 L73 Gaming
 ZCZC W09 120 L80 Watching Youtube
+ZCZC W10 40 L22 OS Quiz
