@@ -64,3 +64,19 @@ ZCZC W09 120 L70 Studying discrete mathematics 2
 ZCZC W09 240 L73 Gaming
 ZCZC W09 120 L80 Watching Youtube
 ZCZC W10 40 L22 OS Quiz
+ZCZC W10 60 L01 SCELE/Discord related
+ZCZC W10 180 L02 ZOOM Meetings
+ZCZC W10 30 L03 Github Related
+ZCZC W10 60 L11 Assignment #01
+ZCZC W10 90 L12 Assignment #02
+ZCZC W10 120 L13 Assignment #03
+ZCZC W10 300 L14 Assignment #04
+ZCZC W10 15 L15 Assignment #05
+ZCZC W10 10 L16 Assignment #06
+ZCZC W10 10 L17 Assignment #07
+ZCZC W10 15 L18 Assignment #08
+ZCZC W10 60 L32 Youtube : Studying LFS
+ZCZC W10 60 L64 Helping OS related problem to a friend
+ZCZC W10 120 L70 Studying Alin
+ZCZC W10 60 L73 Gaming
+ZCZC W10 90 L84 Rest and Sleep

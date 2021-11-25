@@ -90,3 +90,6 @@ Contain the programming language that you should learn in 2021.
 
 ### 29. [Beginners guide to Figma](https://www.youtube.com/watch?v=jk1T0CdLxwU "Open Video")
 This video contain tutorial for beginner who want to learn the basic of Figma.
+
+### 30. [Input Output in Linux](https://devnull.web.id/linux-padawan/linux-dasar-1.html "Open Link")
+This website contain input output command on linux such as pipe and redirection.

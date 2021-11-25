@@ -15,3 +15,6 @@ permalink: /TIPS/
 5. Try Demo
 
 6. Try previous finalterm problems
+
+7. Jawab pertanyaan yang ada di forum
+
