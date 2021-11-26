@@ -70,7 +70,7 @@ ZCZC W10 30 L03 Github Related
 ZCZC W10 60 L11 Assignment #01
 ZCZC W10 90 L12 Assignment #02
 ZCZC W10 120 L13 Assignment #03
-ZCZC W10 300 L14 Assignment #04
+ZCZC W10 1140 L14 Assignment #04
 ZCZC W10 15 L15 Assignment #05
 ZCZC W10 10 L16 Assignment #06
 ZCZC W10 10 L17 Assignment #07
